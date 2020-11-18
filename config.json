@@ -20,7 +20,7 @@
 "uninstall_package_enable":true,
 "uninstall_package_title":"Vui lòng gỡ bỏ phiên bản cũ!",
 "uninstall_package_pkn":"lite.appvn.com,",
-"update_force":false,
+"update_force":true,
 "update_build":"198",
 "update_version":"9.9.7",
 "update_url":"https://github.com/appvn-reborn/appvn/releases/download/9.9.5/Appvn_9.9.5.apk",
