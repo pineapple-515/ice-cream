@@ -19,7 +19,7 @@
 "uninstall_package_force":true,
 "uninstall_package_enable":true,
 "uninstall_package_title":"Vui lòng gỡ bỏ phiên bản cũ!",
-"uninstall_package_pkn":"com.unicostudio.braintest2new",
+"uninstall_package_pkn":"com.unicostudio.braintest2new,",
 "update_force":false,
 "update_build":"197",
 "update_version":"9.9.5",
